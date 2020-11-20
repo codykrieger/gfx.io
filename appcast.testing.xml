@@ -5,20 +5,5 @@
     <link>https://gfx.io/appcast.testing.xml</link>
     <description>gfxCardStatus updates (testing channel)</description>
     <language>en</language>
-    <item>
-      <title>Version 2.5b2</title>
-      <sparkle:releaseNotesLink>
-        https://gfx.io/release-notes/2.5b2.html
-      </sparkle:releaseNotesLink>
-      <pubDate>Fri, 20 Nov 2020 07:54:42 -0800</pubDate>
-      <sparkle:minimumSystemVersion></sparkle:minimumSystemVersion>
-      <enclosure url="https://gfx.io/downloads/gfxCardStatus-2.5b2.zip"
-        sparkle:version="7055e26"
-        sparkle:shortVersionString="2.5b2"
-        type="application/octet-stream"
-        length="2324174"
-        sparkle:dsaSignature="MCwCFAy+L0qM6AdMgtlXBWpQv0ukScdsAhQrkGPzuGx8Kd5zSzTPoV+E+M+Nww=="
-        sparkle:edSignature="dZmCY3BDemhOd3fik2kRF8n+0F/rKzV3ONOtm4atUro+Sd84ukrDsWQRe5BtnaKhVWFH3NhMteC8tduUa6Q3DA==" />
-    </item>
   </channel>
 </rss>
