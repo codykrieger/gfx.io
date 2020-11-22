@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>gfxCardStatus</title>
-    <link>https://gfx.io/appcast.testing.xml</link>
-    <description>gfxCardStatus updates (testing channel)</description>
+    <link>https://gfx.io/appcasts/release.xml</link>
+    <description>gfxCardStatus updates</description>
     <language>en</language>
   </channel>
 </rss>

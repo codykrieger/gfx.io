@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>gfxCardStatus</title>
-    <link>https://gfx.io/appcast.beta.xml</link>
+    <link>https://gfx.io/appcasts/beta.xml</link>
     <description>gfxCardStatus updates (beta channel)</description>
     <language>en</language>
     <item>
