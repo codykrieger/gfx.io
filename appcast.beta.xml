@@ -6,19 +6,19 @@
     <description>gfxCardStatus updates (beta channel)</description>
     <language>en</language>
     <item>
-      <title>Version 2.5b3</title>
+      <title>Version 2.5b4</title>
       <sparkle:releaseNotesLink>
-        https://gfx.io/release-notes/2.5b3.html
+        https://gfx.io/release-notes/2.5b4.html
       </sparkle:releaseNotesLink>
-      <pubDate>Sat, 21 Nov 2020 16:54:34 -0800</pubDate>
+      <pubDate>Sat, 21 Nov 2020 17:29:25 -0800</pubDate>
       <sparkle:minimumSystemVersion></sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/codykrieger/gfxCardStatus/releases/download/v2.5b3/gfxCardStatus-2.5b3.zip"
-        sparkle:version="477"
-        sparkle:shortVersionString="2.5b3"
+      <enclosure url="https://github.com/codykrieger/gfxCardStatus/releases/download/v2.5b4/gfxCardStatus-2.5b4.zip"
+        sparkle:version="5479"
+        sparkle:shortVersionString="2.5b4"
         type="application/octet-stream"
-        length="2323678"
-        sparkle:dsaSignature="MC0CFQClikzSb6+h4xyRFjOcZYgFIJy5KQIUXh03wdBkmQiyiw6A2OqPC/rKXJY="
-        sparkle:edSignature="ZklNQzczqvsFtQ0+jey0Di2KuDC+wXWwq+PMcjPfKerSvWGFbplUGrZVmsyjPYoOrRhH19QjdMG5aMeoLSo/BQ==" />
+        length="2323650"
+        sparkle:dsaSignature="MCwCFFwTv27xRp288I49UDIb6lQogx2JAhQ+anKRijklt97UCwJoXtcEoT8eBA=="
+        sparkle:edSignature="ivopZn3p/Xw54Hg2ukChlsKeSVqSM+aRBGVMChyN9wSwU/5PZnOrEVz/dRZNAhCDM7K5aWt5CNOiJhqT7TPXCw==" />
     </item>
   </channel>
 </rss>
