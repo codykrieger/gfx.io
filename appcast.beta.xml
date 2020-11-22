@@ -5,5 +5,20 @@
     <link>https://gfx.io/appcast.beta.xml</link>
     <description>gfxCardStatus updates (beta channel)</description>
     <language>en</language>
+    <item>
+      <title>Version 2.5b3</title>
+      <sparkle:releaseNotesLink>
+        https://gfx.io/release-notes/2.5b3.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Sat, 21 Nov 2020 16:54:34 -0800</pubDate>
+      <sparkle:minimumSystemVersion></sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/codykrieger/gfxCardStatus/releases/download/v2.5b3/gfxCardStatus-2.5b3.zip"
+        sparkle:version="477"
+        sparkle:shortVersionString="2.5b3"
+        type="application/octet-stream"
+        length="2323678"
+        sparkle:dsaSignature="MC0CFQClikzSb6+h4xyRFjOcZYgFIJy5KQIUXh03wdBkmQiyiw6A2OqPC/rKXJY="
+        sparkle:edSignature="ZklNQzczqvsFtQ0+jey0Di2KuDC+wXWwq+PMcjPfKerSvWGFbplUGrZVmsyjPYoOrRhH19QjdMG5aMeoLSo/BQ==" />
+    </item>
   </channel>
 </rss>
