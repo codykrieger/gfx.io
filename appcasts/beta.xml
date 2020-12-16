@@ -6,6 +6,21 @@
     <description>gfxCardStatus updates (beta channel)</description>
     <language>en</language>
     <item>
+      <title>Version 2.5</title>
+      <sparkle:releaseNotesLink>
+        https://gfx.io/release-notes/2.5.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Wed, 16 Dec 2020 01:43:59 -0800</pubDate>
+      <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/codykrieger/gfxCardStatus/releases/download/v2.5/gfxCardStatus-2.5.zip"
+        sparkle:version="5482"
+        sparkle:shortVersionString="2.5"
+        type="application/octet-stream"
+        length="2324237"
+        sparkle:dsaSignature="MC0CFQDMPxevhtrdEgpmuJTuk8/JMDaknQIUJ5yA1CJXax2R0vuzyS/ds4B/Z7A="
+        sparkle:edSignature="3I/6FklUVhpXleufVsOwveWJZ7fNnBEDOe1H9OpJXU3FY4DsXJSvDrYieZu4nnOu7ZL/EitnVgfQl6wEnvwTBQ==" />
+    </item>
+    <item>
       <title>Version 2.5b4</title>
       <sparkle:releaseNotesLink>
         https://gfx.io/release-notes/2.5b4.html
